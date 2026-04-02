@@ -1,0 +1,5 @@
+{
+  "setting": {
+    "base_url": "https://interface.music.163.com",
+    "partner_url": "https://music.163.com/api/v1/partner/mission/list"
+  }
